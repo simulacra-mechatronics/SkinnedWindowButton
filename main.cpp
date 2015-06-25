@@ -1,5 +1,4 @@
 #include <windows.h>
-#include "CustomDialogButton.h"
 #include "CustomSkinnedButton.h"
 #include "BitmapSkin.h"
 #include <iostream>     // Used for outputting info via 'cout' or 'cerr' to debug window
