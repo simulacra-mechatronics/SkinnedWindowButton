@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1434781084 source:c:\users\godvalve\desktop\dialog test\main.cpp
+	<windows.h>
+	<stdio.h>
+	<iostream>
+	"resource.h"
+
+1434780856 c:\users\godvalve\desktop\dialog test\resource.h
+
+1434780856 source:c:\users\godvalve\desktop\dialog test\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1435117567 source:c:\users\godvalve\documents\github\demo\non-rectangular button test\main.cpp
+	<windows.h>
+	"CustomSkinnedButton.h"
+	"BitmapSkin.h"
+	<iostream>
+	"resource.h"
+
+1435027268 c:\users\godvalve\documents\github\demo\non-rectangular button test\resource.h
+
+1435027268 source:c:\users\godvalve\documents\github\demo\non-rectangular button test\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1435170593 source:c:\users\william.mccolm\documents\github\demo\non-rectangular button test\main.cpp
+	<windows.h>
+	"CustomDialogButton.h"
+	"CustomSkinnedButton.h"
+	"BitmapSkin.h"
+	<iostream>
+	"resource.h"
+
+1435061648 c:\users\william.mccolm\documents\github\demo\non-rectangular button test\resource.h
+
+1435171434 source:c:\users\william.mccolm\documents\github\demo\non-rectangular button test\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1435147549 c:\users\william.mccolm\documents\github\demo\non-rectangular button test\include\bitmapskin.h
+	<windows.h>
+	<iostream>
+	<string>
+
+1435147549 source:c:\users\william.mccolm\documents\github\demo\non-rectangular button test\src\bitmapskin.cpp
+	"BitmapSkin.h"
+
+1435111524 c:\users\godvalve\documents\github\demo\non-rectangular button test\include\bitmapskin.h
+	<windows.h>
+	<iostream>
+	<string>
+
+1435111796 source:c:\users\godvalve\documents\github\demo\non-rectangular button test\src\bitmapskin.cpp
+	"BitmapSkin.h"
+
+1435118584 source:c:\users\godvalve\documents\github\demo\non-rectangular button test\src\customskinnedbutton.cpp
+	"CustomSkinnedButton.h"
+
+1435116677 c:\users\godvalve\documents\github\demo\non-rectangular button test\include\customskinnedbutton.h
+	<windows.h>
+	"BitmapSkin.h"
+
+1435147549 c:\users\william.mccolm\documents\github\demo\non-rectangular button test\include\customdialogbutton.h
+
+1435169611 c:\users\william.mccolm\documents\github\demo\non-rectangular button test\include\customskinnedbutton.h
+	<windows.h>
+	"BitmapSkin.h"
+
+1435147549 source:c:\users\william.mccolm\documents\github\demo\non-rectangular button test\src\customdialogbutton.cpp
+	"CustomDialogButton.h"
+
+1435169596 source:c:\users\william.mccolm\documents\github\demo\non-rectangular button test\src\customskinnedbutton.cpp
+	"CustomSkinnedButton.h"
+
+1435061648 c:\users\william.mccolm\documents\github\demo\non-rectangular button test\include\resource.h
+
+1435185239 source:c:\users\godvalve\documents\github\skinnedwindowbutton\main.cpp
+	<windows.h>
+	"CustomDialogButton.h"
+	"CustomSkinnedButton.h"
+	"BitmapSkin.h"
+	<iostream>
+	"resource.h"
+
+1435121894 c:\users\godvalve\documents\github\skinnedwindowbutton\include\customdialogbutton.h
+
+1435185239 c:\users\godvalve\documents\github\skinnedwindowbutton\include\customskinnedbutton.h
+	<windows.h>
+	"BitmapSkin.h"
+
+1435111524 c:\users\godvalve\documents\github\skinnedwindowbutton\include\bitmapskin.h
+	<windows.h>
+	<iostream>
+	<string>
+
+1435187066 c:\users\godvalve\documents\github\skinnedwindowbutton\resource.h
+
+1435111796 source:c:\users\godvalve\documents\github\skinnedwindowbutton\src\bitmapskin.cpp
+	"BitmapSkin.h"
+
+1435185239 source:c:\users\godvalve\documents\github\skinnedwindowbutton\src\customskinnedbutton.cpp
+	"CustomSkinnedButton.h"
+
+1435187066 source:c:\users\godvalve\documents\github\skinnedwindowbutton\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
